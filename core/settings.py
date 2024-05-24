@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 # CSRF_COOKIE_SECURE = False
-WSGI_APPLICATION = 'core.wsgi.app'
+WSGI_APPLICATION = 'core.wsgi.application'
 
 # Application definition
 
