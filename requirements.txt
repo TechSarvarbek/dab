@@ -1,0 +1,4 @@
+aiogram==3.6.0
+Django==5.0.4
+whitenoise==6.6.0
+environs
